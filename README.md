@@ -1,29 +1,94 @@
-# SmartSysCalc
+# 🧠 SmartSysCalc
 
-**SmartSysCalc** is a C++ project that performs smart operations and conversions between number systems: **Binary, Decimal, Octal, and Hexadecimal**. It supports arithmetic operations as well as conversions like 1's and 2's complements.
-
----
-
-## 🔧 Features
-
-### ✅ Operations Menu
-- Binary arithmetic: +, -, *, /
-- Decimal arithmetic
-- Octal arithmetic
-- Hexadecimal arithmetic
-
-### ✅ Conversions Menu
-- Hexadecimal to Binary
-- Octal to Binary
-- Decimal to Binary
-- Binary to Decimal
-- 1's Complement of Binary
-- 2's Complement of Binary
+**SmartSysCalc** is a C++ command-line calculator designed to perform **intelligent arithmetic and conversions** across various number systems — **Binary**, **Decimal**, **Octal**, and **Hexadecimal**. It also includes features like computing **1's and 2's complements** for binary values.
 
 ---
 
-## ▶️ How to Compile
+## ✨ Features
 
-Using `g++`:
+### 🧮 Number System Arithmetic
+
+Perform basic arithmetic operations (`+`, `-`, `*`, `/`) in:
+
+* 🔢 **Binary**
+* 🔟 **Decimal**
+* 🕗 **Octal**
+* 🔡 **Hexadecimal**
+
+### 🔁 Number System Conversions
+
+Convert values between different number systems:
+
+* ♻️ **Hexadecimal → Binary**
+* ♻️ **Octal → Binary**
+* ♻️ **Decimal → Binary**
+* ♻️ **Binary → Decimal**
+* 🔂 **1's Complement** (Binary)
+* 🔄 **2's Complement** (Binary)
+
+---
+
+## 🛠️ How to Compile & Run
+
+### ✅ Prerequisites
+
+* C++ compiler (e.g., `g++`)
+
+### 🔧 Compile
+
+Navigate to the `src/` directory and run:
+
+```bash
+g++ main.cpp -o SmartSysCalc
+```
+
+Or, if you're in the root directory:
+
 ```bash
 g++ src/main.cpp -o SmartSysCalc
+```
+
+### ▶️ Run
+
+On **Linux/macOS**:
+
+```bash
+./SmartSysCalc
+```
+
+On **Windows**:
+
+```cmd
+SmartSysCalc.exe
+```
+
+---
+
+## 📂 Project Structure
+
+```
+SmartSysCalc/
+├── src/
+│   └── main.cpp         # Main source code
+├── README.md            # Project documentation
+└── ...                  # (optional headers, classes, utils in future versions)
+```
+
+---
+
+## 🚀 Future Enhancements
+
+* GUI version using Qt or SFML
+* Support for floating-point arithmetic
+* Step-by-step solution display for educational use
+* History log of operations
+
+---
+
+## 👨‍💻 Developer
+
+**Mian AbdurRahman Qayyum**
+
+> A fun and functional tool for students, educators, and programmers who work with number systems regularly.
+
+---
