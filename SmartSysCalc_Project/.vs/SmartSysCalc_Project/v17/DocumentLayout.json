@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbdurRahman\\OneDrive - Higher Education Commission\\Documents\\Uni shit\\University\\Semester 2\\OOP\\Project\\Convession Git\\SmartSysCalc_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}|SmartSysCalc_Project.vcxproj|C:\\Users\\AbdurRahman\\OneDrive - Higher Education Commission\\Documents\\Uni shit\\University\\Semester 2\\OOP\\Project\\Convession Git\\SmartSysCalc_Project\\SmartSysCalc_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}|SmartSysCalc_Project.vcxproj|solutionrelative:SmartSysCalc_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartSysCalc_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\AbdurRahman\\OneDrive - Higher Education Commission\\Documents\\Uni shit\\University\\Semester 2\\OOP\\Project\\Convession Git\\SmartSysCalc_Project\\SmartSysCalc_Project.cpp",
+              "RelativeDocumentMoniker": "SmartSysCalc_Project.cpp",
+              "ToolTip": "C:\\Users\\AbdurRahman\\OneDrive - Higher Education Commission\\Documents\\Uni shit\\University\\Semester 2\\OOP\\Project\\Convession Git\\SmartSysCalc_Project\\SmartSysCalc_Project.cpp*",
+              "RelativeToolTip": "SmartSysCalc_Project.cpp*",
+              "ViewState": "AgIAADEBAAAAAAAAAAAcwD8BAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T19:50:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  SmartSysCalc_Project.cpp
+C:\Users\AbdurRahman\OneDrive - Higher Education Commission\Documents\Uni shit\University\Semester 2\OOP\Project\Convession Git\SmartSysCalc_Project\SmartSysCalc_Project.cpp(233,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SmartSysCalc_Project.vcxproj -> C:\Users\AbdurRahman\OneDrive - Higher Education Commission\Documents\Uni shit\University\Semester 2\OOP\Project\Convession Git\SmartSysCalc_Project\x64\Debug\SmartSysCalc_Project.exe

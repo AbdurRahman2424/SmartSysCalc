@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartSysCalc_Project", "SmartSysCalc_Project.vcxproj", "{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Debug|x64.ActiveCfg = Debug|x64
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Debug|x64.Build.0 = Debug|x64
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Debug|x86.Build.0 = Debug|Win32
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Release|x64.ActiveCfg = Release|x64
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Release|x64.Build.0 = Release|x64
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Release|x86.ActiveCfg = Release|Win32
+		{BBEE28A1-FDCD-4F63-81E6-2472FA9C49E9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E04DF95B-3B44-4F8A-A659-3F1E74D74B62}
+	EndGlobalSection
+EndGlobal
